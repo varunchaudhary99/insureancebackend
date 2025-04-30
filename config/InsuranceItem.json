@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Car Insurance",
+        "image": "./assets/icon_car.svg"
+    },
+    {
+        "id": 2,
+        "name": "Bike Insurance",
+        "image": "./assets/icon_bike.svg"
+    },
+    {
+        "id": 3,
+        "name": "Health Insurance",
+        "image": "./assets/icon.health.svg"
+    },
+    {
+        "id": 4,
+        "name": "Term Insurance",
+        "image": "./assets/business_insurance.svg"
+    },
+    {
+        "id": 5,
+        "name": "Investment Plans",
+        "image": "/assets/icon_investment.svg"
+    },
+    {
+        "id": 6,
+        "name": "Business Insurance",
+        "image": "./assets/business_insurance.svg"
+    },
+    {
+        "id": 7,
+        "name": "Family Health Insurance",
+        "image": "./assets/icon_family.svg"
+    },
+    {
+        "id": 8,
+        "name": "Guaranteed Return Plans",
+        "image": "./assets/icon_guaranteedReturn.svg"
+    }
+]
